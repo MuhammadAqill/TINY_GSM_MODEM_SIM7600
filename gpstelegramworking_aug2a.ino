@@ -7,7 +7,7 @@
 
 // ===================== WiFi Setup =====================
 const char* ssid     = "YOUR_WIFI_NAME";
-const char* password = "YOUR_PASSWORD_NAME";
+const char* password = "YOUR_WIFI_PASSWORD_NAME";
 
 // ===================== Telegram Bot Setup =====================
 const char* botToken = "TOKEN_BOT_TELEGRAM";    // ganti token
